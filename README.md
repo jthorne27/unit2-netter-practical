@@ -9,7 +9,7 @@ A self-contained, single-page timed lab-practical simulator for the Unit 2 anato
 
 - **Pin practical mode** — timed stations, random plates, typed answers, scoring.
 - **Browse plates** — all 75 labeled plates with every Unit 2 structure pinned; tap a pin to reveal its name.
-- Covers 346 structures across head & face, neck, back, thorax, anterior/posterior abdominal wall, and deep pelvis.
+- Covers 256 structures (603 pins across 68 of the 75 plates) in head & face, neck, back, thorax, anterior/posterior abdominal wall, and deep pelvis.
 - Works offline once loaded, on phone or laptop, light and dark mode.
 
 ## Files
